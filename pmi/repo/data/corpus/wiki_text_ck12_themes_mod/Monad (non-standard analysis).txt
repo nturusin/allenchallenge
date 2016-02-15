@@ -1,0 +1,1 @@
+In non-standard analysis, a monad (also called halo) is the set of points infinitesimally close to a given point. Given a hyperreal number x in R, the monad of x is the set If x is finite (limited), the unique real number in the monad of x is called the standard part of x. 

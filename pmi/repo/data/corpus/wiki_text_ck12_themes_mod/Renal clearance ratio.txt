@@ -1,0 +1,1 @@
+The renal clearance ratio or fractional excretion is a measure of the speed at which a constituent of urine passes through the kidneys. It is defined by following equation: X is the analyte substance Cx is the renal plasma clearance of X Cin is the renal plasma clearance of inulin. Creatinine is sometimes used instead of inulin as the reference substance. 

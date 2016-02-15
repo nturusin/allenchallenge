@@ -1,0 +1,1 @@
+The I.431/430 Networking standards are recommendations produced by the ITU. They are Layer 1 specifications for ISDN networks, using either an E1 or T1 circuit. The I.431 standard is known as the 'PRI Physical Layer' whereas the I.430 is known as the 'BRI Physical Layer'. 

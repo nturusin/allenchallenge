@@ -1,0 +1,1 @@
+A centered icosahedral number is a centered figurate number that represents an icosahedron. The centered icosahedral number for a specific n is given by The first such numbers are 1, 13, 55, 147, 309, 561, 923, 1415, 2057, 2869, 3871, 5083, 6525, 8217, 

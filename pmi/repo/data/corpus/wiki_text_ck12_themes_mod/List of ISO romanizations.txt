@@ -1,0 +1,1 @@
+List of ISO standards for transliterations and transcriptions (or romanizations): ISO 9 Cyrillic ISO 233 Arabic ISO 259 Hebrew ISO 843 Greek ISO 3602 Japanese ISO 7098 Chinese ISO 9984 Georgian ISO 9985 Armenian ISO 11940 Thai ISO 11940-2 Thai (simplified) ISO 11941 Korean (different systems for North and South Korea) ISO 15919 Indic scripts 

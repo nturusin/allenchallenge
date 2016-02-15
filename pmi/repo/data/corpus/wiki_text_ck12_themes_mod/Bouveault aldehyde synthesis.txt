@@ -1,0 +1,1 @@
+The Bouveault aldehyde synthesis is a one-pot chemical reaction that converts a primary alkyl halide to an aldehyde one carbon longer. The first step of the Bouveault aldehyde synthesis is the formation of the Grignard reagent. Upon addition of a N,N-disubstituted formamide (such as DMF) a hemiaminal is formed, which can easily be hydrolyzed into the desired aldehyde . 

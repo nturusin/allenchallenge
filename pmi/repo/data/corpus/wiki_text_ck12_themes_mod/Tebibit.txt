@@ -1,0 +1,1 @@
+The tebibit is a multiple of the bit, a unit of information, prefixed by the standards-based multiplier tebi (symbol Ti), a binary prefix meaning 240. The unit symbol of the tebibit is Tibit. 1 tebibit = 240 bits = 1099511627776bits = 1024 gibibits The tebibit is closely related to the terabit, the corresponding unit using the metric prefix tera, which is 1012 bits. 

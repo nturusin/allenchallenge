@@ -1,0 +1,1 @@
+Automatic layout is an option in graph drawing toolkits that allow to lay out the Graph according to specific rules, such as: reducing the length of the arcs between the Graph vertices reduce the number of edges crossing (to improve the graph readability) 
